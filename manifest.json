@@ -1,0 +1,17 @@
+{
+	"name": "test",
+	"short_name": "short description",
+	"description": "description description description description",
+	"icons": [
+	  {
+	    "src": "TemplateData/Icon.png",
+	    "sizes": "350x350",
+	    "type": "image/png"
+	  }
+	],
+	"start_url": "/",
+	"display": "fullscreen",
+	"background_color": "#ffffff",
+	"theme_color": "#000000"
+   }
+   
