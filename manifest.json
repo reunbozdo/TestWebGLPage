@@ -5,7 +5,7 @@
 	"icons": [
 	  {
 	    "src": "TemplateData/Icon.png",
-	    "sizes": "325x325",
+	    "sizes": "350x350",
 	    "type": "image/png"
 	  }
 	],
