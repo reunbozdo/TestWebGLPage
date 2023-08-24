@@ -1,15 +1,15 @@
 {
 	"name": "test",
-	"short_name": "short description",
+	"short_name": "App name?",
 	"description": "description description description description",
 	"icons": [
 	  {
 	    "src": "TemplateData/Icon.png",
-	    "sizes": "350x350",
+	    "sizes": "325x325",
 	    "type": "image/png"
 	  }
 	],
-	"start_url": "/",
+	"start_url": "/TestWebGLPage/",
 	"display": "fullscreen",
 	"background_color": "#ffffff",
 	"theme_color": "#000000"
