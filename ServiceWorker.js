@@ -1,9 +1,9 @@
 const cacheName = "reun-Test-0.1";
 const contentToCache = [
     "Build/TestWebGLPage.loader.js",
-    "Build/TestWebGLPage.framework.js.br",
-    "Build/TestWebGLPage.data.br",
-    "Build/TestWebGLPage.wasm.br",
+    "Build/TestWebGLPage.framework.js",
+    "Build/TestWebGLPage.data",
+    "Build/TestWebGLPage.wasm",
     "TemplateData/style.css"
 
 ];
