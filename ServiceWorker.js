@@ -1,9 +1,9 @@
-const cacheName = "reun-PWA011-0.1.1";
+const cacheName = "reun-PWA012-0.1.2";
 const contentToCache = [
     "Build/TestWebGLPage.loader.js",
-    "Build/TestWebGLPage.framework.js",
-    "Build/TestWebGLPage.data",
-    "Build/TestWebGLPage.wasm",
+    "Build/TestWebGLPage.framework.js.unityweb",
+    "Build/TestWebGLPage.data.unityweb",
+    "Build/TestWebGLPage.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
