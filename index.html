@@ -10,6 +10,14 @@
 
   gtag('config', 'G-SF4G6BS22Q');
   console.log('test');
+  let displayMode = 'browser';
+  const mqStandAlone = '(display-mode: standalone)';
+  if (navigator.standalone || window.matchMedia(mqStandAlone).matches) {
+    displayMode = 'standalone';
+  }
+ga('set', 'DISPLAY_MODE', displayMode);
+
+
 </script>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
